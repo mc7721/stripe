@@ -1,0 +1,141 @@
+{
+    "name": "Stripe",
+    "description": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for online businesses of all sizes, including fraud prevention, and subscription management. Use Stripe\u2019s payment platform to accept and process p...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/254-stripe.jpg",
+    "tags": [
+        "billing",
+        "change log example",
+        "financial",
+        "have api",
+        "have openapi",
+        "have swagger",
+        "imports",
+        "invoices",
+        "new",
+        "payments",
+        "payments flow",
+        "relative data",
+        "service api",
+        "streams",
+        "webhook implementations"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stripe\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stripe API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/254-stripe.jpg",
+            "humanURL": "http:\/\/stripe.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stripe-api-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/stripe-api.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.stripe.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/stripe.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/stripe.com\/blog\/feed.rss"
+        },
+        {
+            "type": "Change Logs",
+            "url": "https:\/\/stripe.com\/docs\/upgrades"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/stripe"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/stripe"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/stripe.com\/docs"
+        },
+        {
+            "type": "Email",
+            "url": "info@stripe.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@stripe.com"
+        },
+        {
+            "type": "Email",
+            "url": "atlas@stripe.com"
+        },
+        {
+            "type": "Email",
+            "url": "notices@stripe.com"
+        },
+        {
+            "type": "Email",
+            "url": "jane.diaz@stripe.com"
+        },
+        {
+            "type": "Email",
+            "url": "nonprofit@stripe.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@stripe.com"
+        },
+        {
+            "type": "Email",
+            "url": "dpo@stripe.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/stripe"
+        },
+        {
+            "type": "LinkedIn",
+            "url": "https:\/\/www.linkedin.com\/company\/stripe\/"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/254-2019-09-03-14-45-52.json"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/stripe.com\/us\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/stripe"
+        },
+        {
+            "type": "Webhooks",
+            "url": "https:\/\/stripe.com\/docs\/webhooks"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/stripe.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/stripe.com"
+        }
+    ]
+}
